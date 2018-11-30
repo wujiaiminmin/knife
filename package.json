@@ -1,0 +1,32 @@
+{
+  "name": "knife",
+  "version": "1.0.0",
+  "description": "this is my knife",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wujiaiminmin/knife.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wujiaiminmin/knife/issues"
+  },
+  "homepage": "https://github.com/wujiaiminmin/knife#readme",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-body": "^4.0.4",
+    "koa-logger": "^3.2.0",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.10.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.1.4",
+    "mongoose": "^5.3.13",
+    "pug": "^2.0.3"
+  }
+}
